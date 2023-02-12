@@ -18,12 +18,8 @@ int main(){
 void printhello(){
     printf("Hello!\n");
     printf("My Name is gaurav\n");
+
 }
-
-
-
-
-
 
 
  
