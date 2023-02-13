@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 
-        // Use Library function to calculate the square of a number given by the user.
+        //QUESTION -  Use Library function to calculate the square of a number given by the user.
 
 
 int main(){

@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 
-// print sum of two numbers using function.
+// QUESTION - print sum of two numbers using function.
 
 
 int sum(int a, int b);

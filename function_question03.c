@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// Print Table of number entered by the user using function.
+// QUESTION - Print Table of number entered by the user using function.
 
 void printTable();
 
